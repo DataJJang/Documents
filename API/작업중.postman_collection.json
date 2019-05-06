@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "http://localhost:9090/api/test/test",
+			"name": "http://localhost:8080/test/test",
 			"request": {
 				"method": "POST",
 				"header": [
