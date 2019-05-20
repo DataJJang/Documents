@@ -10,3 +10,8 @@ Docker 관련
 
 AWS ECS에서 Docker 컨테이너 배포
 * https://aws.amazon.com/ko/getting-started/tutorials/deploy-docker-containers/
+
+
+모니터링 Tool(whatap)
+* https://www.whatap.io
+
