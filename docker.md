@@ -1,4 +1,7 @@
 # Documents
+여러 정보 취합 
+
+
 Docker 관련
 
 * https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html
@@ -23,3 +26,9 @@ AWS ECS에서 Docker 컨테이너 배포
 ELK(Elasticsearch+ Logstash +Kibana) 스택 구축하기
 * https://www.itsb.io/archives/330
 
+
+iOS 기초
+* https://github.com/giftbott/iOSDevLinks#basic
+
+iOS 한글링
+* https://www.youtube.com/channel/UCrdcxz4V5BMzPetWWxCXDfA/featured
