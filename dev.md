@@ -14,6 +14,12 @@ SpringBoot 스프링부트 restAPI 템플릿
 
 micro 서비스 아키텍트
 
- Netflix Zuul
+* https://jojoldu.tistory.com/335?category=717426
+
+
+* Netflix Zuul
+ 
+* Spring Cloud Gateway
+ 
  
  
