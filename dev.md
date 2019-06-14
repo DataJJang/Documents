@@ -12,3 +12,8 @@ oAuth(Android)
 SpringBoot 스프링부트 restAPI 템플릿
 * https://github.com/SeungHwan-Lee/SpringBoot-restAPI-Template
 
+micro 서비스 아키텍트
+
+ Netflix Zuul
+ 
+ 
