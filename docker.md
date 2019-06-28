@@ -26,3 +26,8 @@ iOS 기초
 
 iOS 한글링
 * https://www.youtube.com/channel/UCrdcxz4V5BMzPetWWxCXDfA/featured
+
+
+마이크로서비스
+
+* https://www.popit.kr/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b4%80%eb%a0%a8-%ea%b8%80-%ec%b4%9d%ec%a0%95%eb%a6%ac/
